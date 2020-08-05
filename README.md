@@ -49,6 +49,7 @@ ReactDOM.render(
   document.getElementById('container')
 );
 ```
+B
 
 This example will render "Hello Taylor" into a container on the page.
 
@@ -66,6 +67,7 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 
 Read our [contributing guide](https://reactjs.org/contributing/how-to-contribute.html) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React.
 
+B
 ### Good First Issues
 
 To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/facebook/react/labels/good%20first%20issue) that contain bugs which have a relatively limited scope. This is a great place to get started.
@@ -73,3 +75,4 @@ To help you get your feet wet and get you familiar with our contribution process
 ### License
 
 React is [MIT licensed](./LICENSE).
+Updated by Simon Yu
